@@ -1,2 +1,3 @@
-# design-patterns-on-javascript
-Design Patterns on JavaScript
+# Design Patterns on JavaScript
+
+This repository provides examples of design patterns on JavaScript.
